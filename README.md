@@ -1,1 +1,1 @@
-# hello-world
+# Este repósitório se trata do exercício de sinconização da ferramenta Git
